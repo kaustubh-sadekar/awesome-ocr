@@ -278,3 +278,19 @@ A curated list of resources dedicated to scene text localization and recognition
 - [clovaai/deep-text-recognition-benchmark](https://github.com/clovaai/deep-text-recognition-benchmark) - Text recognition (optical character recognition) with deep learning methods.
 - [dinglehopper](https://github.com/qurator-spk/dinglehopper) - dinglehopper is an OCR evaluation tool and reads ALTO, PAGE and text files.
 - [OCRmyPDF](https://github.com/jbarlow83/OCRmyPDF)
+
+
+### Datasets , competetions and challenges
+* [IAM Handwriting dataset](http://www.fki.inf.unibe.ch/databases/iam-handwriting-database)
+  * The IAM Handwriting Database contains forms of handwritten English text which can be used to train and test handwritten text recognizers and to perform writer identification and verification experiments.
+
+* [MLS dataset](https://www.ai.rug.nl/~mrolarik/MLS/)
+ * The data set contains medieval, historical and contemporary manuscripts,
+and has the purpose of testing line-segmentation algorithms. 
+
+* [ACLIE-THI Dataset](https://www.ai.rug.nl/~mrolarik/ALICE-THI/)
+ * Dataset for thai hand written characters.
+
+* [DIBCO - Document Image Binarisation Competetion](https://vc.ee.duth.gr/dibco2019/)
+ * Dataset for document image binarisation competetion at ICDAR-International Conference on Document Analysis and Recognition.
+ 
