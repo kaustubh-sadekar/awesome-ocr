@@ -294,3 +294,5 @@ and has the purpose of testing line-segmentation algorithms.
 * [DIBCO - Document Image Binarisation Competetion](https://vc.ee.duth.gr/dibco2019/)
  * Dataset for document image binarisation competetion at ICDAR-International Conference on Document Analysis and Recognition.
  
+* [Khmer manuscript dataset](http://amadi.univ-lr.fr/ICDAR2017_Competition/index.php/dataset)
+
